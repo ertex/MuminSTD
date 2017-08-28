@@ -61,7 +61,7 @@ public class GameManager {
         waveActive = false;
         playTime = 0;
         map.generateWave();
-        gold = 25000;
+        gold = 400;
         musicStartTime = System.currentTimeMillis() / 1000;
 
     }
