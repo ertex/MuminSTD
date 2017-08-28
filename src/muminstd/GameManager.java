@@ -18,7 +18,7 @@ import javax.sound.sampled.Clip;
 
 /**
  *
- * @author Erik
+ * @author Erik och David
  */
 public class GameManager {
 
@@ -50,7 +50,7 @@ public class GameManager {
             System.out.println("Map image ");
         }
 
-        //playSound("Song.wav");
+        playSound("Song.wav");
         init();
     }
 
